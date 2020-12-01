@@ -6,6 +6,6 @@ class Hellobin < Formula
   version "0.3.0"
 
   def install
-    bin.install "hellobin"
+    bin.install "hello"
   end
 end
